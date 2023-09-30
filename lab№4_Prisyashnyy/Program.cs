@@ -1,4 +1,5 @@
-﻿Console.Write("Введите x: ");
+//lab№4/Сборник_задач/Программирование разветвляющихся алгоритмов/Логические выражения/высокий уровень/вариант 19
+Console.Write("Введите x: ");
 double x = double.Parse(Console.ReadLine());
 Console.Write("Введите y: ");
 double y = double.Parse(Console.ReadLine());
